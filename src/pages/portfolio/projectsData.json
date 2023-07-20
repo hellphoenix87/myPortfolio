@@ -1,0 +1,65 @@
+[
+    {
+      "title": "Recipe App",
+      "image": "./projectImages/bike.png",
+      "description": "Responsive and simple React recipe app that utilizes the Spoonacular API to search for recipes based on ingredients. The app also has a random recipe feature that displays a random recipe each time the button is clicked.",
+      "technologies": "React | Bootstrap",
+      "github": "https://github.com/hellphoenix87/recipe-app",
+      "deployed": "https://hellphoenix87.github.io/recipe-app/",
+      "bgcolor": "#f37737",
+      "id": "1"
+    },
+    {
+      "title": "Weather",
+      "image": "./projectImages/weather.png",
+      "technologies": "React | Bootstrap",
+      "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access. It also has a dark/light theme that changes the look of the page based on day or night in the searched location and uses the geolocation API to automatically determine the user's current location and display the weather.",
+      "github": "https://github.com/hellphoenix87/react-weather-app",
+      "deployed": "https://hellphoenix87.github.io/react-weather-app/",
+      "bgcolor": "#29cbe0",
+      "id": "2"
+    },
+    {
+      "title": "Tic Tac Toe",
+      "image": "./projectImages/team.png",
+      "technologies": "JS | React",
+      "description": "React Tic Tac Toe game. Game remembers the history of moves and allows players to jump back to previous moves. Game also indicates when a player has won the game. Game is still in development and will soon have a computer player that can be played against. ",
+      "github": "https://github.com/hellphoenix87/tic-tac-toe",
+      "deployed": "https://hellphoenix87.github.io/tic-tac-toe/",
+      "bgcolor": "#6c4bf4",
+      "id": "3"
+    },
+    {
+      "title": "Stopwatch",
+      "image": "./projectImages/quiz.png",
+      "technologies": "JS | HTML | CSS",
+      "description": "Responsive stopwatch that allows users to start, stop, and reset the timer. The stopwatch also beats to the rhythm of the seconds.",
+      "github": "https://github.com/hellphoenix87/stopwatch-react",
+      "deployed": "https://hellphoenix87.github.io/stopwatch-react/",
+      "bgcolor": "#f85781",
+      "id": "4"
+    },
+  
+    {
+      "title": "P1",
+      "image": "./projectImages/P1.png",
+      "description": "Welcome to P1, your virtual pit stop for the latest updates and standings in the world of F1. But that's not all—we've also got the ultimate card game where driver knowledge is the key to victory.",
+      "technologies": "React | Framer | CSS | Bootstrap | Node",
+      "github": "https://github.com/Jake-W95/P1",
+      "deployed": "https://p1-heroes.netlify.app/",
+      "bgcolor": "#ffcc33",
+      "id": "1"
+    },
+  
+    {
+      "title": "Planner",
+      "image": "./projectImages/planner.png",
+      "technologies": "JS | Bootstrap | Moment",
+      "description": "Make every hour count with this simple Daily Planner App. You can keep track of all important appointments during a normal 9-5 work day!",
+      "github": "https://github.com/mdyeates/daily-planner",
+      "deployed": "https://mdyeates.github.io/daily-planner/",
+      "bgcolor": "#3e67ff",
+      "id": "6"
+    }
+  ]
+  
