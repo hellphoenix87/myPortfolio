@@ -51,10 +51,10 @@ const Landing = ({ name }) => {
             className="description"
             onInit={(typewriter) => {
               typewriter
-                .typeString("I'm a Developer")
+                .typeString("Strategic IT project management")
                 .pauseFor(1500)
-                .deleteChars(9)
-                .typeString("Designer")
+                .deleteAll()
+                .typeString("Innovative development")
                 .pauseFor(1500)
                 .deleteAll()
                 .typeString("Bringing your ideas to life")
