@@ -15,7 +15,6 @@ function App() {
 
   return (
     <>
-      <h1>Goran Tanasic</h1>
       <Header />
       <AnimatedRoutes personalDetails={personalDetails} />
     </>

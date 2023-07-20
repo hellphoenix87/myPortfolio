@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
+import ReactDOM from "react-dom";
 import "./index.css";
 import "./pages/landing/landing.css";
 import "./pages/about/about.css";
@@ -8,14 +8,15 @@ import "./pages/contact/contact.css";
 
 import App from "./App";
 
-import { BrowserRouter, HashRouter } from 'react-router-dom';
-const RouterComponent = process.env.NODE_ENV === 'production' ? HashRouter : BrowserRouter;
+import { HashRouter } from 'react-router-dom';
 
-ReactDOM.render(
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
   <React.StrictMode>
-    <RouterComponent>
+    <HashRouter>
       <App />
-    </RouterComponent>
-  </React.StrictMode>,
-  document.getElementById('root')
+    </HashRouter>
+  </React.StrictMode>
+
 );
