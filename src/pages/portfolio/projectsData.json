@@ -1,7 +1,7 @@
 [
     {
       "title": "Recipe App",
-      "image": "./projectImages/bike.png",
+      "image": "./projectImages/bike.PNG",
       "description": "Responsive and simple React recipe app that utilizes the Spoonacular API to search for recipes based on ingredients. The app also has a random recipe feature that displays a random recipe each time the button is clicked.",
       "technologies": "React | Bootstrap",
       "github": "https://github.com/hellphoenix87/recipe-app",
